@@ -31,6 +31,8 @@ env/
 *.swp
 *.swo
 
+# macOS
+.DS_Store
+
 # Project specific
-slowniki/
 *.pdf 
