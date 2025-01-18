@@ -95,7 +95,7 @@ python src/generate_pdfs.py
 
 Run all tests with:
 ```bash
-pytest tests/test_word_splitter.py tests/test_generate_extensions.py tests/test_generate_pdfs.py -v
+pytest tests
 ```
 
 The tests verify:
@@ -107,5 +107,4 @@ The tests verify:
 - Parallel processing and batch handling
 - Extension lookup optimization
 - PDF generation and formatting
-- Word order preservation
 - Extension parsing accuracy
