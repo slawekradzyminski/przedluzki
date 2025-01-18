@@ -1,0 +1,129 @@
+ AA 
+B,G,J,L,Ł,M,N,P,R,S,W,Z AD 
+D,F,G,J,L,M,R,S,T,W AG A,Ą,Ę,I,O
+B,D,F,G,H,J,Ł,M,N,P,R,T AJ Ć
+B,C,D,F,G,H,L,P,S,T,W,Ż AL A,Ą,B,D,E,Ę,F,G,I,K,O,P,T
+B,D,F,G,J,K,L,Ł,M,N,P,R,S,T,W,Y AM F
+B,C,D,F,G,J,K,L,M,N,P,T,W,Ż AR A,Ą,B,Ę,F,K,O,S,Y
+B,F,H,K,L,M,N,P,R,T,W AS A,Y
+B,D,J,K,L,Ł,M,N,P,R,W AT A,U,Y
+H,M,T AU A,Ć,Ł,R,T,U
+G,K,M,T,W AŻ 
+D,Ł,O BA B,Ć,D,I,J,K,L,Ł,M,N,Ń,O,R,S,Ś,T,W,Z,Ź
+ BE E,G,J,K,L,R,T,Z,Ż
+O BI B,Ć,D,G,J,L,Ł,M,O,P,S,T,Z
+A,I BO A,B,Ć,D,I,J,K,L,M,N,P,R,T,Y,Ź
+Ł,O BU C,D,F,G,K,L,Ł,M,R,S,T,U,Z,Ź
+A,Ł,O BY Ć,K,Ł,M,Ś,T
+ CE K,L,Ł,N,Ń,P,R,S,W,Z
+ CI E,Ę,I,P,S,Ź,Ż
+ CO B,D,L,Ś
+O,U,W,Z DA Ć,G,J,L,Ł,M,N,Ń,O,R,T
+O DE J,K,M,N,R,S
+I,O,U DO G,I,K,L,M,N,Ń,Z
+G,I,O DY B,G,L,M,N,Ń,R,Z
+B,F,K,M EE 
+N,R EF A,Ą,Ę,O,Y
+H,M EH E,M
+B,D,G,H,J,K,L,M,R,T EJ 
+B,C,H,M,P,R,Ż EL F,O
+C,P,T,Z EŁ 
+D,G,H,J,K,M,N,R,S EM O,U
+C,D,F,G,H,J,L,M,P,R,S,T,W,Z,Ż EN D,T
+C,L,W,Z,Ż EŃ 
+B,C,D,H,J,K,M,N,P,S,T,Z,Ż ER A,Ą,B,Ę,G,O,Y
+C,D,F,G,L,M,O ES A,U,Y
+ EŚ 
+B,F,H,J,K,M,N,P,R,S,T,W,Z,Ż ET A,Ą,Ę,O,Y
+C,L,M,R,Z EW A,Ą,E,Ę,O,Y
+B,C,F,G,Ł,T,Z EZ A,Ą,Ę,O,Y
+E,U FA G,I,J,L,Ł,M,N,R,S,Z
+P FE E,N,S,T,Z
+ FI G,K,L,N,S,Ś,T,U,Z,Ź
+P,T FU G,J,L,M,N,R,S,U
+A GĘ B,G,Ś
+A,O GI B,D,E,F,G,K,L,N,Ń,R,S,T
+A,E GO I,J,L,N,Ń,T
+A,C,U HA F,I,J,K,L,N,O,S,U
+C,E HE C,H,J,L,M,N,P,R,T
+ HĘ 
+C,G,P HI F,P,S,T,W
+E,M,O,U,Y HM M
+O,P,R HO C,I,J,L,P,R,T,Y
+C,P,U HU B,F,K,N,T
+B,G,L,W ID Ą,Ę,O,U,Y,Ź
+C,P II 
+B,D,F,G,K,M,N,P,S IL E,U
+B,K,P,S,W IŁ U,Y
+B,K,L,M,N,S,Z IM A,Ą,Ć,Ę
+F,G,J,K,L,M,P,W,Y,Z IN B,D,F,R
+D,H,N,P,S IW A,Ą,Ę,O,Y
+C,L,N IŻ 
+ JA Ć,D,G,J,K,M,P,R,Ś,T,W,Z,Ź
+ JĄ Ć,Ł
+U,Z JE B,J,M,N,R,T,Ż
+Ł,O,S,T KA C,I,K,Ł,M,N,Ń,P,R,S,T,W,Ź,Ż
+O,S KI C,Ć,E,J,L,Ł,M,N,P,R,Ś,T,Ź
+E,O KO B,C,Ć,D,G,I,K,L,M,Ń,P,R,S,Ś,T
+O KU B,C,Ć,F,I,J,K,L,Ł,M,N,P,R,Ś
+A,B,D,U LA B,Ć,D,G,I,K,L,Ł,M,Ń,R,S,T,W
+A,C,T,U,Ź LI C,D,G,K,M,N,P,R,S,T,Z,Ż
+I,U LU B,D,F,J,K,M,N,Ń,O,P,R,T,Z
+Ć,I,O MA C,Ć,D,G,I,J,K,M,N,Ń,P,R,S,T,U,Ź,Ż
+Ć,D,I MĄ Ć,K,T,Ż
+ ME E,H,J,L,M,N,R,S,T,W
+Ć MI Ę,G,K,L,M,N,Ń,R,S,Ś,T
+H MM 
+E MU C,F,L,Ł,N,R,S,Ś,U,Z
+Ć,O MY C,Ć,J,K,L,Ł,M,T
+A,C,D,G,O,Z NA Ć,D,J,M,Ń,P,R,S,T,W
+A,C,D,O,P,Ś NI Ą,C,Ć,E,L,M,P,T,W,Ż
+A,D,O NO C,K,M,N,R,S,Ś,T,Ż
+C,D,L,S NY G,Ż
+B,C,J,K,M,P,R OD A,Ą,E,Ę,M,O,R,Y
+B,G,H,J,W OJ Ć
+B,D,F,K,L,N,R,S,T,W OK A,I,O,R,U
+B,D,K,Ł,N,S,T OM A,Y
+B,D,E,F,G,J,Ł,M,N,S,T,W,Z,Ż ON A,Ą,E,I,O
+D,G,K,P,R,T,W OŃ 
+Z OO 
+B,H,K,M,P,R,T OP A,U,Y
+B,F,H,J,K,L,M,N,P,T OR A,D,F,K,O,T,U,Z
+F,K,L,N,R,S,T OS A,Ą,Ę,I,M,O,P,Y
+C,K,Ł,N,R OŚ Ć
+B,F,G,H,J,K,L,N,P,R OT O
+D OZ U,Y
+N,T OŻ 
+L,M,R,S,W ÓD 
+ ÓS 
+Ł,M,N,R,S ÓW 
+Ć,K,O,S PA C,Ć,D,F,I,J,K,L,Ł,M,N,Ń,P,R,S,Ś,T,W,Ź
+ PE L,Ł,N,R,T
+K,Ś PI A,C,Ć,F,I,J,K,L,Ł,N,P,Ś,T,W
+ PO Ć,D,I,Ń,P,R,T
+W,Ż RE A,B,D,F,I,J,K,L,M,N,O,P,T,W,Ż
+A,E,G,K,O,P RO B,D,I,K,L,Ń,P,S,Ś,T
+O,S SĄ D,G
+ SE C,M,N,P,R,T
+Ę,K,O,P,W SI A,Ą,C,E,Ę,K,L,Ł,M,O,R,T,U,W
+E,P SU B,K,M,Ń,R,S,T,W
+A,E,U TA B,C,F,G,I,J,K,L,M,N,O,R,S,Ś,U,Ż
+E,U TĄ P,Ż
+W TE J,K,Ł,N,R,T,Z,Ż
+E,U TĘ P,Ż
+E,K,O,S,U TO Ć,G,K,M,N,Ń,P,R,S,Y,Ż
+ TS S
+A,S TU B,F,I,J,K,L,M,P,R,T,Z,Ż
+A,E,U TY Ć,J,K,Ł,M,N,P,Ś
+B,C,D,L,N,P,R UD A,O,U
+B,H,K,L,M,P,R,T UF A,F,O
+B,F,G,K,M,N,P,T,Ż UL A,E,G,I,U,W
+A,B,H,J,L,Ł,N,O,R,S,T UT A,Ą,Ę,O,Y
+A,B,F,M UU 
+E,O,S,T WE B,K,N,Ń,P,T,Ź
+D,L,Z WU J
+E,I,L,R,Z WY Ć,G,J,K,Ł,R,Z,Ż
+ YY 
+E,G,Ł,S,Z ZA D,Ń,Ś
+C ZE K,Ł,N,Ń,R,T,W,Z
+Ł,R ŻE L,N,Ń,R,T
