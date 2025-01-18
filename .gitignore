@@ -32,7 +32,4 @@ env/
 *.swo
 
 # macOS
-.DS_Store
-
-# Project specific
-slowniki/ 
+.DS_Store 
